@@ -70,7 +70,7 @@ Professional-level notes on the **Spring Framework**, one of the most widely use
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/master-programming-resources.git
+   git clone https://github.com/mayuri5401/All-in-One-Notes.git
    ```
 
 2. **Explore the materials:**
